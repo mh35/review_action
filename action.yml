@@ -1,0 +1,6 @@
+name: Re:VIEW build system
+author: MH35
+description: Re:VIEW document build system
+runs:
+  using: docker
+  image: Dockerfile
